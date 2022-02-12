@@ -9,5 +9,3 @@ publish:
 
 lint:
 	npx eslint ..
-
-lint-ci: install lint
